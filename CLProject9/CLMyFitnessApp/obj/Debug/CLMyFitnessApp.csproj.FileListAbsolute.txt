@@ -1,0 +1,116 @@
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLMyFitnessApp\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject2\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myBMR.resources
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject3\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myBMR.resources
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject4\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myBMR.resources
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject5\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myBMR.resources
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.MyTimer.resources
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject6\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exerciseLogForm.resources
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myBMR.resources
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.MyTimer.resources
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject7\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exerciseLogForm.resources
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myBMR.resources
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.MyTimer.resources
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myWaterForm.resources
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+C:\Users\clkjc\source\repos\CLProject8\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe.config
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.exe
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\bin\Debug\CLMyFitnessApp.pdb
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csprojAssemblyReference.cache
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exerciseLogForm.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.FoodItemForm.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.mainForm.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myBMR.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myProfileForm.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.MyTimer.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.myWaterForm.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.Properties.Resources.resources
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.GenerateResource.cache
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.csproj.CoreCompileInputs.cache
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.exe
+D:\C# Projects\FitnessApp\CLProject9\CLMyFitnessApp\obj\Debug\CLMyFitnessApp.pdb
